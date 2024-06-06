@@ -1,4 +1,4 @@
-# filmSphere Clone
+# FilmSphere Clone
 
 ## Project Description
 
