@@ -17,4 +17,4 @@ TMDb Clone is a React-based web application for exploring and discovering inform
 - React Router
 - React Responsive Carousel
 - Skeleton Loading
-- The Movie Database (TMDb) API
+- The Movie Database (IMDb) API
